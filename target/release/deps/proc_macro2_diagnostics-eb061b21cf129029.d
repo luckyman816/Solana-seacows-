@@ -1,0 +1,10 @@
+/home/lucas/Documents/Project/exchage/target/release/deps/proc_macro2_diagnostics-eb061b21cf129029.rmeta: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/lucas/Documents/Project/exchage/target/release/deps/libproc_macro2_diagnostics-eb061b21cf129029.rlib: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/lucas/Documents/Project/exchage/target/release/deps/proc_macro2_diagnostics-eb061b21cf129029.d: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs:

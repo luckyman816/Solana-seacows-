@@ -1,0 +1,11 @@
+/home/lucas/Documents/Project/exchage/target/sbf-solana-solana/release/deps/getrandom-3c7e50fac7f7a650.rmeta: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs
+
+/home/lucas/Documents/Project/exchage/target/sbf-solana-solana/release/deps/libgetrandom-3c7e50fac7f7a650.rlib: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs
+
+/home/lucas/Documents/Project/exchage/target/sbf-solana-solana/release/deps/getrandom-3c7e50fac7f7a650.d: /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs /home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs
+
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs:
+/home/lucas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs:
